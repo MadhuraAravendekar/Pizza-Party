@@ -7,4 +7,4 @@
 3. Onions
 4. Green Peppers
 5. Corn
-~~6. Mashroom~~
+6. ~~Mashroom~~
